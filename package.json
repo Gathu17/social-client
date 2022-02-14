@@ -46,5 +46,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {}
+  "proxy":"https://shielded-headland-04220.herokuapp.com/"
 }
