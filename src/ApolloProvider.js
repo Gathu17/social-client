@@ -1,6 +1,6 @@
 import React from 'react';
 import App from './App';
-import {ApolloClient, InMemoryCache,ApolloProvider,createHttpLink,ApolloLink,HttpLink} from '@apollo/client';
+import {ApolloClient, InMemoryCache,ApolloProvider,createHttpLink,ApolloLink} from '@apollo/client';
 //import { createHttpLink } from 'apollo-link-http';
 import { onError } from "@apollo/client/link/error";
 import {setContext} from 'apollo-link-context';
